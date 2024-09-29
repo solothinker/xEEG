@@ -6,3 +6,4 @@
   
 ![ICA](https://github.com/solothinker/xEEG/blob/main/data/ICA_component.png)
 
+- 29-09-2024- Reconstructing the eeg data after ICA. 
